@@ -1,0 +1,19 @@
+# Інструменти для збирання звітів і скріншотів
+tools/
+**/.vscode/
+**/report.json
+**/screens/
+
+# Файли, які створюють програми під час запуску
+lab8/tests.txt
+lab8/painters.csv
+lab8/imdb.csv
+lab8/guest_book.txt
+lab9/second.txt
+lab9/today.txt
+lab9/birthday.txt
+
+# Python і Node
+__pycache__/
+*.pyc
+node_modules/
